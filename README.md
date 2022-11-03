@@ -17,8 +17,8 @@
 print("파이썬!")
 ```
 
-[] checkbox1
-[x] checkbox2
+[ ] checkbox1
+[X] checkbox2
 
 😙
 😹
